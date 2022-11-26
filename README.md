@@ -1,4 +1,7 @@
 # Aries Cloudagent Python Sandbox
+## Useful resources
+### Connecting via Swagger
+This article dates from September 2020 so it's not clear whether it's still significant https://ldej.nl/post/becoming-a-hyperledger-aries-developer-part-3-connecting-using-swagger/ .
 ## Making use of cloudagent-python
 
 The instructions provided at https://github.com/hyperledger/aries-cloudagent-python/blob/main/DevReadMe.md#running do not allow the agent to start. 
